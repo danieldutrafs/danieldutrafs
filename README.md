@@ -1,10 +1,7 @@
 # 🧑🏻‍💻 Daniel Dutra
 **`Aprendendo a ser Full Stack`**
 
-👋 Olá! Meu nome é Daniel Dutra, tenho 17 anos e moro no Rio Grande do Sul, Brasil.  Sou estudante de Desenvolvimento de Sistemas no SENAC EAD e estou me preparando para atuar como desenvolvedor Full Stack.  
-Atualmente, estudo Java, SQL e Python, com foco em desenvolver sistemas funcionais e bem estruturados.
-
-
+👋 Olá! Meu nome é Daniel Dutra, tenho 17 anos e moro no Rio Grande do Sul, Brasil. Sou estudante de Desenvolvimento de Sistemas no SENAC e estou me preparando para atuar como desenvolvedor Full Stack. Atualmente, estudo Java, SQL e Python, com foco em desenvolver sistemas funcionais e bem estruturados.
 
 <a href="https://github.com/danieldutrafs?tab=followers">
   <img 
