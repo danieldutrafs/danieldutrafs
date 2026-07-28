@@ -67,9 +67,10 @@ I build complete web applications. Passionate about coding the **entire stack**â
 
 ## ğŸ“Š GitHub Status
 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danieldutrafs&theme=dracula" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danieldutrafs&theme=dracula" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danieldutrafs&theme=dracula" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danieldutrafs&theme=dracula" width="48%" />
+</p>
 
 ---
 
