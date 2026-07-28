@@ -64,12 +64,12 @@ I build complete web applications. Passionate about coding the **entire stack**�
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danieldutrafs&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldutrafs&layout=compact&theme=tokyonight" />
-</p>
+## 📊 GitHub Status
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danieldutrafs&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danieldutrafs&theme=dracula" />
 
 ---
 
